@@ -1,4 +1,4 @@
-# TSF-Task-4---To-Explore-Decision-Tree-Algorithm
+# TSF-Task-4-To-Explore-Decision-Tree-Algorithm
 
 Objective:-For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically.
 
